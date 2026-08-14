@@ -6,6 +6,12 @@ The system automatically recognizes registered students through a webcam and rec
 
 ---
 
+## 🖥️ Project Dashboard
+
+![AI Face Attendance System Dashboard](dashboard.png.jpg)
+
+---
+
 ## 📌 Project Overview
 
 The AI Face Attendance System is a computer-vision-based attendance management application designed to automate the traditional attendance process.
