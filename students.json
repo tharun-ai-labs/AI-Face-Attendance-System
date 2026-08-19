@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ajay",
+        "roll_no": "44",
+        "department": "cse",
+        "photo": "ajay.jpeg"
+    },
+    {
+        "name": "tharun",
+        "roll_no": "24afcai193",
+        "department": "cai",
+        "photo": "tharun_1.jpeg"
+    },
+    {
+        "name": "ranga",
+        "roll_no": "24AFECE777",
+        "department": "ECE",
+        "photo": "ranga_1.jpeg"
+    },
+    {
+        "name": "pavan",
+        "roll_no": "77",
+        "department": "cse",
+        "photo": "pavan.jpeg"
+    },
+    {
+        "name": "surya",
+        "roll_no": "22",
+        "department": "cai",
+        "photo": "surya.jpeg"
+    },
+    {
+        "name": "thar",
+        "roll_no": "2444",
+        "department": "cai",
+        "photo": "thar.jpeg"
+    }
+]
