@@ -1,6 +1,7 @@
 streamlit
-opencv-python-headless
 face-recognition
+dlib
+opencv-python-headless
 numpy==1.26.4
 pandas
 openpyxl
