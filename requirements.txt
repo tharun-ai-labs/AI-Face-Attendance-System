@@ -1,8 +1,7 @@
 streamlit
-numpy<2
-pandas
 opencv-python-headless
-dlib-bin==20.0.1
 face-recognition
+numpy==1.26.4
+pandas
 openpyxl
 pillow
